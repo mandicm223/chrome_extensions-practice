@@ -1,0 +1,38 @@
+body {
+  background-color: indianred;
+}
+
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 50px;
+  margin: 10px;
+  font-weight: lighter;
+}
+
+h2 {
+  margin-top: 40px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+input {
+  outline: none;
+  border: none;
+  width: 300px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+button {
+  display: block;
+  margin-top: 30px;
+  height: 35px;
+  padding: 10px;
+  color: indianred;
+  font-weight: bold;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
